@@ -1,0 +1,9 @@
+{
+  "name": "mission-profilesapp",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "dev": "vite", "build": "vite build", "preview": "vite preview" },
+  "dependencies": { "@aws-amplify/ui-react": "^6", "aws-amplify": "^6", "react": "^19", "react-dom": "^19" },
+  "devDependencies": { "@aws-amplify/backend": "^1", "@aws-amplify/backend-cli": "^1", "@types/aws-lambda": "^8", "aws-cdk-lib": "^2", "constructs": "^10", "typescript": "^5", "tsx": "^4", "vite": "^7" }
+}
